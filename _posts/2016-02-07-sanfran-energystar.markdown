@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Today's Graph"
-date:   2016-02-07 12:00:00 -0800
+date:   2016-02-07 1:00:00 -0800
 categories: data_viz	
 ---
 
@@ -14,3 +14,4 @@ Below is a very simple Choropleth visualization of the mean 2014 Energy Star Sco
 
 <iframe width="100%" height="520" frameborder="0" src="https://stanleychris2.cartodb.com/viz/0aa5657a-cdcf-11e5-a0ee-0ea31932ec1d/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+	
