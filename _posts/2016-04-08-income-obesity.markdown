@@ -63,7 +63,9 @@ We can read the graph below by saying that on average lower income individuals c
 #### Income: Calories
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/g_calorie.png)
 
-While it's interesting to know that non-alcoholic beverages have the biggest difference For nearly every food type, low income people on average consume more 
+It's interesting to know that non-alcoholic and alcoholic beverages are responsible for the biggest mean difference between high income and low income consumption, below lets look at BMI to see if there is a similar relationship between high BMI and the population. 
+
+It's also interesting to find that lower income individuals are consuming more than those of higher income on nearly every food dimension. I wonder about the science behind the cost of food, does cheaper food = higher calorie food?
 
 
 ### BMI
@@ -77,8 +79,7 @@ The two graphs below compare the mean food consumption differences between the u
 #### Upper 25% BMI less mean BMI: Calories
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/calories_bmi.png)
 
-### Observation
-
+The most obvious take-away from a comparison of the previous four graphs is the contribution that alcohol and non-alcoholic beverage consumption (soda) contribute to lower income consumption. 
 
 ### How about the source?
 
@@ -87,5 +88,3 @@ For every food record in the NHANES database, there is a field called 'source' w
 Above, we see that low income individuals are more likely to get their food from the grocery store (red) and the convenience store (green), where those of higher income eat at restaurants more frequently (blue).
 
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/g_source.png)
-
-[Source can be found here](https://data.sfgov.org/Economy-and-Community/Registered-Business-Locations-San-Francisco/g8m3-pdis)
