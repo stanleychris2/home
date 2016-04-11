@@ -19,11 +19,11 @@ Obesity is a problem in America. More than two-thirds (68.8 percent) of adults a
 
 In the report that follows, I will only observe one of these relationships: resources and access to healthy foods. To do this, I will observe the relationships between income, BMI (body mass index), and the diets of 6,000+ participants in the NHANES study. I hypothesize a negative relationship between income and the daily intake of calories, carbs, fat, protein, and sugar - so as income rises, consumption on these metrics falls. 
 
-###About the data:
+### About the data:
 
 The [National Health and Nutrition Examination Survey (NHANES)](http://www.cdc.gov/nchs/nhanes.htm) is a survey research program conducted by the National Center for Health Statistics (NCHS) to assess the health and nutritional status of adults and children in the United States, and to track changes over time. The NHANES interview includes demographic, socioeconomic, dietary, and health-related questions. The examination component consists of medical, dental, and physiological measurements, as well as laboratory tests administered by medical personnel.
 
-###The relationship between Income and Obesity:
+### The relationship between Income and Obesity:
 
 As a first step, I'd like to look at the relationship between income and obesity. For this, I am going to use BMI data from the body measurements dataset and join that with our demographic data which contains income to poverty ratios.
 
