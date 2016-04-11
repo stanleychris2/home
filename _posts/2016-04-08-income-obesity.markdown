@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Income, obesity, and soda"
+title:  "Income, obesity, and nutrition"
 date:   2016-04-09 1:00:00 -0800
 categories: data_viz	
 ---
