@@ -87,4 +87,4 @@ For every food record in the NHANES database, there is a field called 'source' w
 
 Above, we see that low income individuals are more likely to get their food from the grocery store (red) and the convenience store (green), where those of higher income eat at restaurants more frequently (blue).
 
-![My helpful screenshot](http://stanleychris2.github.io/home/resources/g_source.png)
+![My helpful screenshot](http://stanleychris2.github.io/home/resources/source1.png)
