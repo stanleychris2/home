@@ -76,7 +76,7 @@ The graph below shows that on average lower income individuals consume ~ 15g (mo
 
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/g_calorie.png)
 
-It's interesting to know that non-alcoholic and alcoholic beverages are responsible for the biggest mean difference between high income and low income consumption. Below lets look at BMI to see if there is a similar relationship between high BMI and the population. 
+It's interesting to know that non-alcoholic and alcoholic beverages are responsible for the biggest mean difference between high income and low income consumption. Below let's look at BMI to see if there is a similar relationship between high BMI and the population. 
 
 It's also interesting to find that lower income individuals are consuming more than those of higher income on nearly every food dimension. I wonder about the science behind the cost of food, does cheaper food = higher calorie food?
 
