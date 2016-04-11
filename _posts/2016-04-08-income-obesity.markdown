@@ -46,6 +46,8 @@ In the lowest income group you see a higher mean in calorie consumption than the
 
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/carbs.png)
 
+This same relationship (as above) exists for carbs. This is  because carbs contribute to the calorie difference. 
+
 ### Income vs. Fat
 
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/fat.png)
@@ -64,7 +66,7 @@ Calories, carbs, and sugar - there exists a negative relationship between povert
 
 The graph's below represent a split group comparison of the top 25% and bottom 25% of individuals on the income/poverty scale. The two graphs below represent a difference of mean consumption for each food dimension. 
 
-We can read the graph below by saying that on average lower income individuals consume ~ 15g of carbs and sugar per day of non-alcoholic beverages and fruit juices, and cereals more than higher income individuals. 
+The graph below shows that on average lower income individuals consume ~ 15g (more than high income individuals) of carbs and sugar per day of non-alcoholic beverages, fruit juices, and cereals.
 
 #### Income: Sugar and Carbs 
 
@@ -74,7 +76,7 @@ We can read the graph below by saying that on average lower income individuals c
 
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/g_calorie.png)
 
-It's interesting to know that non-alcoholic and alcoholic beverages are responsible for the biggest mean difference between high income and low income consumption, below lets look at BMI to see if there is a similar relationship between high BMI and the population. 
+It's interesting to know that non-alcoholic and alcoholic beverages are responsible for the biggest mean difference between high income and low income consumption. Below lets look at BMI to see if there is a similar relationship between high BMI and the population. 
 
 It's also interesting to find that lower income individuals are consuming more than those of higher income on nearly every food dimension. I wonder about the science behind the cost of food, does cheaper food = higher calorie food?
 
