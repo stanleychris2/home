@@ -44,7 +44,7 @@ In the lowest income group you see a higher mean in calorie consumption than the
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/fat.png)
 
 ### Income vs. Protein
-![My helpful screenshot](http://stanleychris2.github.io/home/resources/protein.png)
+![My helpful screenshot](http://stanleychris2.github.io/home/resources/protien.png)
 
 ### Income vs. Sugar
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/sugar.png)
@@ -76,6 +76,8 @@ The two graphs below compare the mean food consumption differences between the u
 
 #### Upper 25% BMI less mean BMI: Calories
 ![My helpful screenshot](http://stanleychris2.github.io/home/resources/calories_bmi.png)
+
+### Observation
 
 
 ### How about the source?
