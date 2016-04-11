@@ -97,7 +97,7 @@ The most obvious take-away from a comparison of the previous four graphs is the 
 
 ### Where's the food coming from?
 
-For every food record in the NHANES database, there is a field called 'source' which represents the origin of the food. The graph above is computed by taking the top 25% and bottom 25% of individuals on the income/poverty scale and calculating the percentace of each 'source' of food record. For example, the big red bar to the left represents that low income people eat food from the grocery store 5% more often than those of high income.
+For every food record in the NHANES database, there is a field called 'source' which represents the origin of the food. The graph above is computed by taking the top 25% and bottom 25% of individuals on the income/poverty scale and calculating the percentace of each 'source' of food record. For example, the top bar represents that low income people eat food from the grocery store ~5% more often than those of high income.
 
 Above, we see that low income individuals are more likely to get their food from the grocery store (red) and the convenience store (green), where those of higher income eat at restaurants more frequently (blue).
 
